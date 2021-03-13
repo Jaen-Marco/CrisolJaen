@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Crisol</string>
+    <string name="home">Libros</string>
+    <string name="favorite">Lista de deseos</string>
+    <string name="account">Mi cuenta</string>
+    <string name="favoriteRequireRegister">Ingresa a tu cuenta y cuéntanos cuales son tu libros favoritos.</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="email">Correo</string>
+    <string name="password">Contraseña</string>
+    <string name="createAccount">Crear cuenta</string>
+    <string name="name">Nombre</string>
+    <string name="lastname">Apellido</string>
+    <string name="register">Crear Cuenta</string>
+    <string name="deliveryInfo">Información de envío</string>
+    <string name="detail">Detalle</string>
+    <string name="comments">Opiniones</string>
+    <string name="search">Buscar</string>
+    <string name="signOut">Cerrar sesión</string>
+    <string name="personalInfo">Información personal</string>
+    <string name="payment">Pago . </string>
+    <string name="cardNumber">Número de tarjeta</string>
+    <string name="cardCVV">CVV</string>
+    <string name="cardExpDate">Fecha de exp.</string>
+    <string name="confirmationText">En breve recibirás un correo de confirmación con los detalles de tu pedido y envío. Gracias por comprar en Crisol.</string>
+    <string name="seeBook">Ver libro</string>
+    <string name="goHome">Ir al inicio</string>
+    <string name="buy">Comprar</string>
+    <string name="cardExpYear">Año</string>
+    <string name="cardExpMonth">Mes</string>
+    <string name="slash">  /</string>
+    <string name="tipoTarjeta">Tarjeta</string>
+</resources>

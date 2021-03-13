@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/cvcontenedor"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:elevation="8dp"
+    app:cornerSizeTopRight="0dp"
+    app:cornerSizeTopLeft="0dp"
+    app:cornerSizeBottomRight="4dp"
+    app:cornerSizeBottomLeft="4dp"
+    app:cardUseCompatPadding="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:minHeight="330dp"
+        android:gravity="top"
+        android:orientation="vertical">
+        <ImageView
+            android:id="@+id/ivImage"
+            android:layout_width="match_parent"
+            android:layout_height="230dp"
+            android:src="@mipmap/ic_launcher" />
+        <TextView
+            android:id="@+id/tvTitle"
+            android:layout_width="160dp"
+            android:layout_height="wrap_content"
+            android:singleLine="false"
+            android:paddingTop="8dp"
+            android:paddingLeft="8dp"
+            android:paddingRight="8dp"
+            android:textAppearance="@style/cardBookTitle"/>
+        <TextView
+            android:id="@+id/tvAuthor"
+            android:layout_width="160dp"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:textAppearance="?attr/textAppearanceBody2"/>
+    </LinearLayout>
+</com.google.android.material.card.MaterialCardView>

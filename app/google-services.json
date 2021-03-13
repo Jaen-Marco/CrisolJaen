@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "595253183179",
+    "firebase_url": "https://crisol-23906.firebaseio.com",
+    "project_id": "crisol-23906",
+    "storage_bucket": "crisol-23906.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595253183179:android:515a5a445a3bf11e3c514e",
+        "android_client_info": {
+          "package_name": "com.example.crisol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595253183179-q0ri0mm5l137jtib127jlole4vln03t4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANi5k6KwsrRiOQVs8ZTDbWwEXfJBG-Xuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595253183179-q0ri0mm5l137jtib127jlole4vln03t4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
